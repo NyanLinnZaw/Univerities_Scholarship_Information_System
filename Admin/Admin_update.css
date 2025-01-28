@@ -1,0 +1,13 @@
+.top{
+    margin-top: 30px;
+}
+
+.left{
+    margin-left: 50px;
+}
+
+
+input[type=submit] {
+    width: 325px;
+}
+
